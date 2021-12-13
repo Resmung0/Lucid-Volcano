@@ -12,7 +12,7 @@ A dark minimalist VS Code theme with a magma touch.
 
 </div>
 
-## Color pallete
+## Color palette
 
 <div align="center">
   
