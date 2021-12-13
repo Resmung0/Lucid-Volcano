@@ -6,13 +6,13 @@
     "publisher": "LucidVolcano",
     "repository": {
         "type": "git",
-        "url": "",
+        "url": "https://github.com/Resmung0/Lucid-Volcano",
     },
     "author":{
         "name": "Marcos Gabriel"
     },
     "icon":{
-        "https://github.com/Resmung0/Lucid-Volcano-vscode-theme/blob/master/Images/lucid-volcano/LV_only_logo.png"
+        "https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_only_logo.png"
     }
     "keywords":[
         "theme",
