@@ -40,5 +40,5 @@ Pink Red       | `#f20d63` | `242 13 99` |<img src="https://github.com/Resmung0/
 ### Via CLI:
 
 ```
-code --install-extension MarcosGabriel.lucid-volcano
+code --install-extension marcosgabriel.lucid-volcano
 ```
