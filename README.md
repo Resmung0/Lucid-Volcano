@@ -31,6 +31,14 @@ Pink Red       | `#f20d63` | `242 13 99` |<img src="https://github.com/Resmung0/
 
 ## Installation steps
 
-1. Go to extension on VS Code activy bar;
+### From VS Code
+
+1. Go to extension part on VS Code activy bar;
 2. Search for Lucid Volcano theme;
 3. Install and **Enjoy!**
+
+### Via CLI:
+
+```
+code --install-extension MarcosGabriel.lucid-volcano
+```
