@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_only_logo.png" width="200"/>
 
-# **LUCID** Volcano
+# :volcano: **LUCID** Volcano :volcano:
 
-A dark vs code theme with a magma touch like a volcano's crater
+A dark VS Code theme with a magma touch like a volcano's crater
 
 ![preview-original](https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_screen_1.png)
 
@@ -25,8 +25,12 @@ Pink Red       | `#f20d63` | `242 13 99` |<img src="https://github.com/Resmung0/
 
 </div>
 
-## Installation
+## Tech used
 
-1. Go to extension on vs code activy bar
+* [Theme Studio for VS Code](https://themes.vscode.one/)
+
+## Installation steps
+
+1. Go to extension on VS Code activy bar
 2. Search for Lucid Volcano theme
 3. Install and **Enjoy!**
