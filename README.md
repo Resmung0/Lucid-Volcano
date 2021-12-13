@@ -4,7 +4,7 @@
 
 # :volcano: **LUCID** Volcano :volcano:
 
-A dark VS Code theme with a magma touch like a volcano's crater
+A dark minimalist VS Code theme with a magma touch like a volcano's crater
 
 ![preview-original](https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_screen_1.png)
 
