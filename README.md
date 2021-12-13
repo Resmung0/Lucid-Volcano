@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_only_logo_1.png" width="200"/>
+<img src="https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_only_logo_1.png" />
 
 # :volcano: **LUCID** Volcano :volcano:
 
