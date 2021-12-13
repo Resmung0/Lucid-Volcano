@@ -1,10 +1,20 @@
-# README
+<div align="center">
 
-![Banner](https://github.com/Resmung0/Lucid-Volcano-vscode-theme/blob/master/Images/LV_logo.png)
+<img src="https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_only_logo.png" width="200"/>
 
-## Minimalist like lava
----
+# **LUCID** Volcano
 
-![Lucid Volcano](https://github.com/Resmung0/Lucid-Volcano-vscode-theme/blob/master/Images/LV_screen.png)
+A dark vs code theme with a magma touch like a volcano crater
 
-**Enjoy!**
+![preview-original](https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_screen_1.png)
+
+![preview-original-2](https://github.com/Resmung0/Lucid-Volcano/blob/main/Images/LV_screen_2.png)
+  
+</div>
+ 
+ 
+## Installation
+
+1. Go to extension on vs code activy bar
+2. Search for Lucid Volcano theme
+3. Install and **Enjoy!**
