@@ -1,0 +1,36 @@
+{
+    "name": "lucid-volcano",
+    "displayName": "LUCID Volcano",
+    "version": "0.0.1",
+    "publisher": "LucidVolcano",
+    "description": "A dark minimalist theme with a magama touch.",
+    "author":{
+        "name": "Marcos Gabriel"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon":"LV_only_logo.png",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Resmung0/Lucid-Volcano"
+    },
+    "keywords":[
+        "theme",
+        "dark theme",
+        "red theme",
+        "minimalist theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lucid Volcano",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lucid Volcano-color-theme.json"
+            }
+        ]
+    }
+}
