@@ -1,16 +1,16 @@
 {
     "name": "lucid-volcano",
     "displayName": "LUCID Volcano",
-    "version": "0.0.1",
-    "publisher": "LucidVolcano",
-    "description": "A dark minimalist theme with a magama touch.",
-    "author":{
+    "version": "0.1.0",
+    "publisher": "MarcosGabriel",
+    "description": "A dark minimalist theme with a magma touch.",
+    "author": {
         "name": "Marcos Gabriel"
     },
     "categories": [
         "Themes"
     ],
-    "icon":"LV_only_logo.png",
+    "icon": "Images/LV_logo.png",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -18,7 +18,7 @@
         "type": "git",
         "url": "https://github.com/Resmung0/Lucid-Volcano"
     },
-    "keywords":[
+    "keywords": [
         "theme",
         "dark theme",
         "red theme",
