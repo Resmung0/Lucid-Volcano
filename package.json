@@ -27,10 +27,15 @@
     "contributes": {
         "themes": [
             {
-                "label": "Lucid Volcano",
+                "label": "Lucid Volcano (Magma)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Lucid Volcano-color-theme.json"
-            }
+            },
+			{
+				"label": "Lucid Volcano (Lava)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Lucid Volcano-2-color-theme.json"
+			}
         ]
     }
 }
