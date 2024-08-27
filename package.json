@@ -29,12 +29,12 @@
             {
                 "label": "Lucid Volcano (Magma)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Lucid Volcano-color-theme.json"
+                "path": "./themes/lucid-volcano-color-theme.json"
             },
 			{
 				"label": "Lucid Volcano (Lava)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Lucid Volcano-2-color-theme.json"
+				"path": "./themes/lucid-volcano-2-color-theme.json"
 			}
         ]
     }
