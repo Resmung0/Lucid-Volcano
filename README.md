@@ -56,3 +56,21 @@ Purple              | `#891fff` | `137 31 255`  |<img src="Images//purple.png" w
 ```
 code --install-extension marcosgabriel.lucid-volcano
 ```
+
+# 5. Extras
+
+To make it even prettier, you can make some changes to your `seetings.json` file. First, press `Ctrl + Shift + P`. Then, choose `Preferences: Open User Seetings` and
+paste the following information into your `seetings.json` file.
+
+```json
+{
+  "workbench.colorCustomizations": {
+      "notebook.focusedCellBorder":"#f20d63",
+      "notebook.focusedEditorBorder": "#f20d63",
+  },
+  "notebook.cellToolbarLocation": {
+      "default": "right",
+      "jupyter-notebook": "left"
+  },
+}
+```
