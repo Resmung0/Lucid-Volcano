@@ -1,41 +1,49 @@
 {
-    "name": "lucid-volcano",
-    "displayName": "LUCID Volcano",
-    "version": "0.2.0",
-    "publisher": "MarcosGabriel",
-    "description": "A dark minimalist theme with a magma touch.",
-    "author": {
-        "name": "Marcos Gabriel"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "Images/LV_logo.png",
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Resmung0/Lucid-Volcano"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "red theme",
-        "minimalist theme"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Lucid Volcano (Magma)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/lucid-volcano-color-theme.json"
-            },
+	"name": "lucid-volcano",
+	"displayName": "LUCID Volcano",
+	"version": "0.2.0",
+	"publisher": "MarcosGabriel",
+	"description": "A dark minimalist theme with a magma touch.",
+	"author": {
+		"name": "Marcos Gabriel"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "Images/LV_logo.png",
+	"engines": {
+		"vscode": "^1.63.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Resmung0/Lucid-Volcano"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"red theme",
+		"minimalist theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lucid Volcano (Magma)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lucid-volcano-color-theme.json"
+			},
+			{
+				"label": "Lucid Volcano (Magma - Alternative)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lucid-volcano-3-color-theme.json"
+			},
 			{
 				"label": "Lucid Volcano (Lava)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/lucid-volcano-2-color-theme.json"
 			}
-        ]
-    }
+		]
+	},
+	"__metadata": {
+		"size": 304979
+	}
 }
