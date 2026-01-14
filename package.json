@@ -29,17 +29,22 @@
 			{
 				"label": "Lucid Volcano (Magma)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/lucid-volcano-color-theme.json"
+				"path": "./themes/lucid-volcano-magma.json"
 			},
 			{
 				"label": "Lucid Volcano (Magma - Alternative)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/lucid-volcano-3-color-theme.json"
+				"path": "./themes/lucid-volcano-magma-alternative.json"
 			},
 			{
 				"label": "Lucid Volcano (Lava)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/lucid-volcano-2-color-theme.json"
+				"path": "./themes/lucid-volcano-lava.json"
+			},
+			{
+				"label": "Lucid Volcano (Lava - Alternative)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lucid-volcano-lava-alternative.json"
 			}
 		]
 	},
