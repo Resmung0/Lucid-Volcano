@@ -64,11 +64,6 @@ paste the following information into your `seetings.json` file.
 
 ```json
 {
-  "workbench.colorCustomizations": {
-      "notebook.cellEditorBackground": "#181B28",
-      "notebook.focusedCellBorder":"#f20d63",
-      "notebook.focusedEditorBorder": "#f20d63",
-  },
   "notebook.cellToolbarLocation": {
       "default": "right",
       "jupyter-notebook": "left"

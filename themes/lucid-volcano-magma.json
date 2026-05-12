@@ -1867,7 +1867,7 @@
     "list.inactiveSelectionForeground": "#cccccc",
     "list.hoverBackground": "#474c6060",
     "list.hoverForeground": "#cccccc",
-    "list.activeSelectionBackground": "#474c60",
+    "list.activeSelectionBackground": "#8d184b",
     "list.activeSelectionForeground": "#ffffff",
     "tree.indentGuidesStroke": "#474c60",
     "list.dropBackground": "#1e2031",
@@ -1924,7 +1924,7 @@
     "editorLineNumber.foreground": "#474c60",
     "editorCursor.foreground": "#f20d63",
     "editorCursor.background": "#ffffff",
-    "editor.selectionBackground": "#474c60",
+    "editor.selectionBackground": "#8d184b",
     "editor.inactiveSelectionBackground": "#474c607a",
     "editorWhitespace.foreground": "#ffffff4c",
     "editor.selectionHighlightBackground": "#515c6a",
@@ -1941,8 +1941,8 @@
     "editor.wordHighlightStrongBackground": "#ffffff46",
     "editor.wordHighlightStrongBorder": "#ff000000",
     "editor.wordHighlightBackground": "#575757b8",
-    "editor.lineHighlightBackground": "#1e203100",
-    "editor.lineHighlightBorder": "#1e203100",
+    "editor.lineHighlightBackground": "#f20d632d",
+    "editor.lineHighlightBorder": "#f20d635f",
     "editorLineNumber.activeForeground": "#ffffff",
     "editorLink.activeForeground": "#f20d63",
     "editorIndentGuide.background": "#474c60",
@@ -2106,6 +2106,9 @@
     "breadcrumb.activeSelectionForeground": "#ffffff",
     "editorGutter.commentRangeForeground": "#ffffff",
     "debugExceptionWidget.background": "#252234",
-    "debugExceptionWidget.border": "#3a3554"
+    "debugExceptionWidget.border": "#3a3554",
+    "notebook.cellEditorBackground": "#181B28",
+    "notebook.focusedCellBorder":"#f20d63",
+    "notebook.focusedEditorBorder": "#f20d63"
   }
 }
