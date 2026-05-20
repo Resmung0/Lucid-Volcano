@@ -1872,7 +1872,7 @@
     "tree.indentGuidesStroke": "#474c60",
     "list.dropBackground": "#1e2031",
     "list.highlightForeground": "#f20d63",
-    "list.focusBackground": "#474c608d",
+    "list.focusBackground": "#8d184b8d",
     "list.focusForeground": "#ffffff",
     "listFilterWidget.background": "#f20d63",
     "listFilterWidget.outline": "#00000000",
